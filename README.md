@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/mohamed-emad-8b0385222/"><img src="https://img.shields.io/badge/-Mohamed%20Emad-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/mohamed-emad-8b0385222/" alt="LinkedIn Badge"></a>
 <a href="https://github.com/moeamd"><img src="https://img.shields.io/badge/-moeamd-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=GitHub&link=https://github.com/moeamd" alt="GitHub Badge"></a>
 
-<img align="right" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://camo.githubusercontent.com/d346919ca2926c7fdd037b3f4162f3f6752f37b3810b7fb3d84bd261a3576af7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966)" width="300"/>
+<img align="right" src="https://camo.githubusercontent.com/d346919ca2926c7fdd037b3f4162f3f6752f37b3810b7fb3d84bd261a3576af7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="300"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 
