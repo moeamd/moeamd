@@ -1,59 +1,71 @@
-<h2>Hey 👋, I'm <a href="https://emad-folio.netlify.app/">Mohamed Emad</a></h2>
+<div align="center">
+  <h2>Hey 👋, I'm <a href="https://emad-folio.netlify.app/">Mohamed Emad</a></h2>
+  <p>I'm a Full-Stack Developer based in 🇪🇬 Cairo, Egypt.</p>
 
-<p>I'm a Full-Stack Developer based in 🇪🇬 Cairo, Egypt — currently interning at <strong><a href="#">BEETLEWARE</a></strong> on a production Next.js 15 real estate platform, and re-architecting <strong>Waratel</strong> — a Quran memorization academy — to serve 10,000+ users across Egypt.</p>
+  <a href="https://emad-folio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4E69C8?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website Badge"></a>
+  <a href="https://www.linkedin.com/in/mohamed-emad-8b0385222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://github.com/moeamd"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+</div>
 
-<a href="https://emad-folio.netlify.app"><img src="https://img.shields.io/badge/-emad--folio.netlify.app-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://emad-folio.netlify.app" alt="Website Badge"></a>
-<a href="https://www.linkedin.com/in/mohamed-emad-8b0385222/"><img src="https://img.shields.io/badge/-Mohamed%20Emad-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/mohamed-emad-8b0385222/" alt="LinkedIn Badge"></a>
-<a href="https://github.com/moeamd"><img src="https://img.shields.io/badge/-moeamd-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=GitHub&link=https://github.com/moeamd" alt="GitHub Badge"></a>
+<br/>
 
-<img align="right" src="https://camo.githubusercontent.com/d346919ca2926c7fdd037b3f4162f3f6752f37b3810b7fb3d84bd261a3576af7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="300"/>
+<img align="right" src="https://camo.githubusercontent.com/d346919ca2926c7fdd037b3f4162f3f6752f37b3810b7fb3d84bd261a3576af7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="300" alt="Typing GIF" />
 
-<h2>⚡️ A Few Quick Facts</h2>
+## ⚡️ A Few Quick Facts
 
-<ul>
-  <li>🏢 Currently building production features at <strong>BEETLEWARE</strong> — Next.js 15 real estate dashboard</li>
-  <li>👥 Led a <strong>6-person team</strong> to deliver Avante Lab — full-stack dental platform, first of its kind in Egypt</li>
-  <li>🔨 Architecting <strong>Waratel</strong> from scratch — Next.js 15, PostgreSQL, Redis, BullMQ</li>
-  <li>🧐 Currently deep in <strong>SSR architecture</strong>, <strong>real-time systems</strong>, and <strong>scalable API design</strong></li>
-  <li>💬 Ask me about <strong>Next.js, Node.js, PostgreSQL, Redis, and system design</strong></li>
-  <li>📙 Check out my <a href="https://emad-folio.netlify.app">portfolio</a></li>
-  <li>🌍 Open to <strong>Remote</strong> opportunities</li>
-</ul>
+- 🏢 Currently building production features at **[BEETLEWARE](#)** — Next.js 15 real estate dashboard
+- 👥 Led a **6-person team** to deliver Avante Lab — full-stack dental platform, first of its kind in Egypt
+- 🔨 Architecting **Waratel** from scratch — Next.js 15, PostgreSQL, Redis, BullMQ
+- 🧐 Currently deep in **SSR architecture**, **real-time systems**, and **scalable API design**
+- 💬 Ask me about **Next.js, Node.js, PostgreSQL, Redis, and system design**
+- 📙 Check out my **[portfolio](https://emad-folio.netlify.app)**
+- 🌍 Open to **Remote** opportunities
 
-<h2>🚀 Tech I Use</h2>
+<br/>
+
+## 🚀 Tech I Use
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=moeamd&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeamd&theme=tokyonight&hide_border=false" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=moeamd&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moeamd&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
 ### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=moeamd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=moeamd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
