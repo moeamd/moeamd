@@ -54,18 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeamd&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&v=1" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=moeamd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repos" />
-</p>
