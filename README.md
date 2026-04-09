@@ -45,27 +45,27 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeamd&theme=tokyonight&hide_border=false" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeamd&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeamd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeamd&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moeamd&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&v=1" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ### 🔝 Top Contributed Repos
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=moeamd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=moeamd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repos" />
+</p>
